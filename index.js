@@ -264,6 +264,6 @@ function openWhatsapp() {
     }
 
     let wTxtEncoded = encodeURI(wTxt);
-    window.open("https://wa.me/918179537294?text=" + wTxtEncoded);
+    window.open("https://wa.me/916301271010?text=" + wTxtEncoded);
   }
 }
